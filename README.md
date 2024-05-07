@@ -1,2 +1,2 @@
-npm i
-npm run dev
+npm i               --> s-1
+npm run dev         --> s-2
